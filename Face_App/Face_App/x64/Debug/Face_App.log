@@ -1,0 +1,7 @@
+﻿  Test.cpp
+D:\Project\Cpp\Face_App\Face_App\Test.cpp(55,57): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Project\Cpp\Face_App\Face_App\Test.cpp(55,57): warning C4244:         with
+D:\Project\Cpp\Face_App\Face_App\Test.cpp(55,57): warning C4244:         [
+D:\Project\Cpp\Face_App\Face_App\Test.cpp(55,57): warning C4244:             _Tp=int
+D:\Project\Cpp\Face_App\Face_App\Test.cpp(55,57): warning C4244:         ]
+  Face_App.vcxproj -> D:\Project\Cpp\Face_App\x64\Debug\Face_App.exe
